@@ -1,6 +1,8 @@
 ---
 title: Questo è quanto
-excerpt: 'Questo è un estratto dell''articolo, Vediamo quanto ne compare.'
+excerpt: >-
+  Questo è un estratto dell'articolo, Vediamo quanto ne compare. Anche se è un
+  po' più lungo di quello che era all'inizio, direi che così può bastare.
 date: '2021-01-09'
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
